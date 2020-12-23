@@ -1,0 +1,3 @@
+1#Impressão com falhas#Impressora#Impressão com falhas Impressão com falhas
+1#Telefone não funciona#Rede#Impressão com falhas
+2#Notebook não liga#Hardware#Notebook não liga
